@@ -1,0 +1,1 @@
+#### Client App Written In React Native JavaScript , No Connection With Server , Only Connects To DB .
